@@ -15,7 +15,7 @@
             <div class="hero-unit">
 
 
-<img src="https://raw.githubusercontent.com/virtimus/i3c/master/assets/images/i3c-logo-black.svg?sanitize=true" valign="center">
+<img src="https://www.architech.ca/wp-content/uploads/thegem-logos/logo_c4a9d7fb29cff312c0b9ab70d939a642_2x.png" valign="center">
 
                 <h1>Hello Cloud!</h1>
 
